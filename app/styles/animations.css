@@ -1,0 +1,16 @@
+@keyframes fall {
+  from {
+    transform: translateY(-10px);
+  }
+  to {
+    transform: translateY(100vh);
+  }
+}
+
+.falling-text {
+  position: absolute;
+  color: rgb(6 182 212);
+  font-size: 0.75rem;
+  font-family: ui-monospace, monospace;
+  white-space: nowrap;
+}
