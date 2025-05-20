@@ -223,7 +223,7 @@ export default function GTALaunchingScreen() {
       <div className="relative z-30 flex flex-col h-full w-full p-6 md:p-12">
         {/* Header */}
         <div className="flex justify-between items-center">
-          <div className="text-white font-bold text-xl md:text-2xl gta-text-shadow">TECHEIPEDIA</div>
+          <div className="text-white font-bold text-xl md:text-2xl gta-text-shadow">TECHIEPEDIA</div>
           <div className="flex space-x-4">
             <a href="#" className="text-white hover:text-yellow-400 transition-colors">
               <Github className="h-5 w-5" />
@@ -243,9 +243,9 @@ export default function GTALaunchingScreen() {
           <div className="mb-8 relative">
             <h1
               className="gta-title text-7xl md:text-9xl font-extrabold tracking-tighter uppercase text-center glitch-text"
-              data-text="TECHEIPEDIA"
+              data-text="TECHIEPEDIA"
             >
-              <span className="text-white gta-text-shadow">TECHEI</span>
+              <span className="text-white gta-text-shadow">TECHIE</span>
               <span className="text-yellow-400 gta-text-shadow">PEDIA</span>
             </h1>
             <div className="absolute -top-4 right-0 bg-yellow-400 text-black px-2 py-1 text-xs font-bold transform rotate-12 uppercase">
@@ -257,7 +257,7 @@ export default function GTALaunchingScreen() {
           <div className="relative mb-16">
             <h2
               className="text-3xl md:text-5xl font-bold uppercase text-white gta-text-shadow tracking-wide glitch-subtitle"
-              data-text="LAUNCHING SOON UNDEFINED"
+              data-text="LAUNCHING SOON ....."
             >
               LAUNCHING SOON UNDEFINED
             </h2>
