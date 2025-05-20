@@ -3,7 +3,7 @@ import "@/app/globals.css"
 import { ThemeProvider } from "@/components/theme-provider"
 
 export const metadata = {
-  title: "Techeipedia",
+  title: "Techiepedia",
   description: "coming soon....",
   icons: {
     icon: "/favicon.ico",
