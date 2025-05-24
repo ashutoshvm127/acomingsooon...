@@ -4,12 +4,12 @@ import { ThemeProvider } from "@/components/theme-provider"
 
 export const metadata = {
   title: "Techiepedia",
-  description: "coming soon....",
-  icons: {
-    icon: "/favicon.ico",
-    shortcut: "/favicon.ico",
-    apple: "/apple-touch-icon.png",
-  },
+  description: "Launching Soon",
+  // icons: {
+  //   icon: "/favicon.ico",
+  //   shortcut: "/favicon.ico",
+  //   apple: "/apple-touch-icon.png",
+  // },
 }
 
 export default function RootLayout({
